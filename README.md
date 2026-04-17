@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto sobre o Digital Serv.
 
-- [Acesse o projeto finalizado, online](https://github.com/williamsramos/digitalserv)
+- [Acesse o projeto finalizado, online](https://github.com/eltiin007/digitalserv)
 
 ## :memo: Licença
 
